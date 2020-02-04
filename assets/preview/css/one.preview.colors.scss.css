@@ -1,0 +1,19 @@
+div.generatedSpinner {
+  margin: 0 !important;
+  padding: 0 !important; }
+  div.generatedSpinner > div > div {
+    background-color: white !important; }
+
+.onePreviewBody {
+  background-color: #0072ff;
+  background-image: none; }
+  .onePreviewBody #editorSettingsTopBar a.layoutIcon {
+    color: #676767;
+    fill: #676767; }
+  .onePreviewBody #editorSettingsTopBar a.layoutIcon.active {
+    background-color: white;
+    color: #676767;
+    fill: #676767; }
+  .onePreviewBody #editorSettingsTopBar .logo {
+    background-image: url("https://irp-cdn.multiscreensite.com/-resellers-preview/info@socialagencyinc.com/logo/t3bo9rjv6d1g6454n64eqothe8.png");
+    display: block; }
